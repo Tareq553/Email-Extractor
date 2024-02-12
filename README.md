@@ -15,6 +15,10 @@ Extracted CSV will have total 2 columns.Those are:
 - URL
 - Email
 
+## Instructions
+- Keep your desired website's link in the same directory
+- Open cmd and put [scrapy runspider email_extractor.py]
+
 ## Author
 
 - [M Tareq Rahman](https://www.github.com/Tareq553)
