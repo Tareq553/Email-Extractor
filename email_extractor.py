@@ -29,5 +29,5 @@ class EmailExtractorSpider(scrapy.Spider):
                 writer.writerow(['url', 'email'])
             for email in emails:
                 writer.writerow([url, email])
-                
+                       
 #Open cmd and put [scrapy runspider email_extractor.py]
